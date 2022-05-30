@@ -1,0 +1,11 @@
+﻿  algoritmos.cpp
+c:\users\marco\source\repos\algoritmos\presentación1\algoritmosordenación\algoritmosordenación\algoritmos.cpp(38): warning C4018: '<=': no coinciden signed/unsigned
+c:\users\marco\source\repos\algoritmos\presentación1\algoritmosordenación\algoritmosordenación\algoritmos.cpp(52): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\marco\source\repos\algoritmos\presentación1\algoritmosordenación\algoritmosordenación\algoritmos.cpp(57): warning C4018: '<=': no coinciden signed/unsigned
+c:\users\marco\source\repos\algoritmos\presentación1\algoritmosordenación\algoritmosordenación\algoritmos.cpp(73): warning C4018: '<': no coinciden signed/unsigned
+c:\users\marco\source\repos\algoritmos\presentación1\algoritmosordenación\algoritmosordenación\algoritmos.cpp(81): warning C4018: '<': no coinciden signed/unsigned
+c:\users\marco\source\repos\algoritmos\presentación1\algoritmosordenación\algoritmosordenación\algoritmos.cpp(96): warning C4018: '<': no coinciden signed/unsigned
+c:\users\marco\source\repos\algoritmos\presentación1\algoritmosordenación\algoritmosordenación\algoritmos.cpp(103): warning C4018: '<': no coinciden signed/unsigned
+c:\users\marco\source\repos\algoritmos\presentación1\algoritmosordenación\algoritmosordenación\algoritmos.cpp(116): warning C4018: '<': no coinciden signed/unsigned
+c:\users\marco\source\repos\algoritmos\presentación1\algoritmosordenación\algoritmosordenación\algoritmos.cpp(129): warning C4018: '<': no coinciden signed/unsigned
+  AlgoritmosOrdenación.vcxproj -> C:\Users\marco\source\repos\Algoritmos\Presentación1\AlgoritmosOrdenación\Debug\AlgoritmosOrdenación.exe
